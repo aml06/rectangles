@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 11 13:45:04 2023
-
-@author: andrewlyon
-"""
 #Main function, handles function calls and most print outputs
 def __main__():
     fileName = "rectangles.txt"
